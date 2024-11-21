@@ -1,0 +1,6 @@
+plotly.express
+pandas
+zipfile
+numpy
+matplotlib
+requests
