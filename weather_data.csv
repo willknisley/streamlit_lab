@@ -1,0 +1,15 @@
+city,temperature,feels_like,humidity,wind_speed,weather,sky
+"salt lake city, ut",42.66,42.66,56,4.54,mostly cloudy,77
+"denver, co",30.35,30.35,84,2.77,mostly cloudy,81
+"boise, id",47.17,47.17,62,2.0,cloudy,96
+"spokane, wa",43.03,43.03,87,5.03,rain showers,100
+"reno, nv",44.06,44.06,54,5.16,partly cloudy,43
+"san francisco, ca",57.13,57.13,86,3.1,mostly cloudy,78
+"seattle, wa",48.07,46.68,96,7.31,rain showers,98
+"portland, or",49.26,48.28,88,6.78,light rain,96
+"helena, mt",48.43,47.12,43,7.27,partly cloudy,54
+"missoula, mt",44.96,44.96,68,2.84,rain showers,100
+"bend, or",35.67,31.83,88,8.34,mostly cloudy,76
+"medford, or",43.02,43.02,87,3.91,light rain,100
+"great falls, mt",45.88,43.37,46,9.27,mostly cloudy,81
+"idaho falls, id",28.67,28.67,79,3.38,partly cloudy,47
